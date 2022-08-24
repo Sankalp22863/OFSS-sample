@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Monica Chill!!! Go get a beer.");
 		System.out.println("Monica - I Don't need a beer.");
 		System.out.println("Who said it was for you??");
+		System.out.println("Checking the Auto Trigger option on Commit of the file in github.")
 
 	}
 
